@@ -1,0 +1,22 @@
+{
+  "name": "hyperdomains",
+  "version": "0.0.0",
+  "description": "WIP - nothing to see here",
+  "main": "index.js",
+  "dependencies": {
+    "blake2b-universal": "^1.0.0",
+    "hypercore-crypto": "^2.1.0",
+    "hypertrie": "^5.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/hyperdomains.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/hyperdomains/issues"
+  },
+  "homepage": "https://github.com/mafintosh/hyperdomains"
+}
